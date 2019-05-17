@@ -1,7 +1,7 @@
 # quanandthao.github.io
 <html>
 <head>
-	<title>Demo image</title>
+	
 	<meta charset="UTF-8" />
 
 </head>
